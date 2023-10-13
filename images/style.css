@@ -1,0 +1,30 @@
+.image-col img{
+	flex-wrap:wrap;
+	
+}
+.col-1{
+	width:5%;
+}
+ .image-row{
+	 display:flex;
+	 flex-wrap:nowrap;
+	 width:50%;
+ }
+ .image-row img{
+	 width:100%;
+ }
+ button .text-dif{
+	 color:#ccc;
+	
+ }
+ .btm-row span{
+	 padding-left:30%;
+ }
+ .btm-row a{
+	 border:1px solid red;
+	 text-decoration:none;
+ }
+	 
+	 
+	 
+	 
